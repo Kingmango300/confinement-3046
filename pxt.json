@@ -1,5 +1,6 @@
 {
     "name": "Confinement 3.0.46",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
